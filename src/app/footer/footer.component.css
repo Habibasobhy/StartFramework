@@ -1,0 +1,15 @@
+.footer-content{
+    background-color: var(--secondary-color);
+    padding: 40px;
+}
+
+.icon{
+    width: 2.4rem;
+    height: 2.4rem;
+    border: 1px #fff solid;
+}
+
+.footer-dateOfWebsite{
+    background-color : #1a252f;
+    padding: .625rem;
+}
